@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(224, 224, 224);
+}
+
+.nav {
+    height: 92vh;
+    width: 250px;
+    background-color: #1b1e20;
+}
+.nav-item:hover {
+    background-color: #303235;
+}
+
+.navbar {
+    background-color: #1f6ebd;
+}
+
+h1 {
+    color: white;
+}

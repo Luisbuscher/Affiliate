@@ -1,0 +1,17 @@
+.maincontainer {
+    align-items: center;
+}
+
+.button{
+    background-color: green;
+    color: black;
+}
+
+.div-card {
+    margin-top: 30px;
+}
+
+.card-item {
+    border-radius: 10px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.37);
+}

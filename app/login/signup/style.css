@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+.card-title {
+    align-items: center;
+    text-align: center;
+}
